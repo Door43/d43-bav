@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[bav:home|Door43 (bav)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-bav|d43-bav repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bav/archive/master.zip|d43-bav.zip]]
+
+**Recent Changes**
+{{changes>ns = bav}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/bav|Ethnologue data]]
+
